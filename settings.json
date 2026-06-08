@@ -1,5 +1,6 @@
 {
   "sound_enabled": true,
   "music_volume": 50,
-  "effects_volume": 70
+  "effects_volume": 70,
+  "game_speed": 250
 }
